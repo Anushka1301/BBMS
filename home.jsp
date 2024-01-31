@@ -16,9 +16,9 @@ height:609px;
 <body>
 <br>
 <div style="max-width:100%">
-  <img class="mySlides"  src="images/welcome.jpg" >
-  <img class="mySlides"  src="images/admin.jpg" >
-   <img class="mySlides"  src="images/a.png" >
+  <img class="mySlides"  src="welcome.jpg" >
+  <img class="mySlides"  src="admin.jpg" >
+   <img class="mySlides"  src="a.png" >
 </div>
 <script>
 var myIndex = 0;
