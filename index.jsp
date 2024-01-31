@@ -41,7 +41,7 @@
         height:500px;
         width:100%;
        background-color:grey;
-       background-image:url("images/113.png");
+       background-image:url("113.png");
        background-repeat:no-repeat;
     .l1{
         height:500px;
@@ -125,9 +125,9 @@ input[type="text"], input[type="mail"]
 
 
 <div style="max-width:100%">
-  <img class="mySlides"  src="images/2.jpeg" >
-  <img class="mySlides"  src="images/1.jpeg" >
-  <img class="mySlides"  src="images/q.jpg" >
+  <img class="mySlides"  src="2.jpeg" >
+  <img class="mySlides"  src="1.jpeg" >
+  <img class="mySlides"  src="q.jpg" >
 
 </div>
 <script>
@@ -166,7 +166,7 @@ function carousel() {
         
   <div class="column">
     <div class="card" >
-      <img src="images/13.jpg" alt="Reason 1" style="width:100%">
+      <img src="13.jpg" alt="Reason 1" style="width:100%">
       <div class="container">
         <h2>Reason First..</h2>
         <p class="title">Reason 1</p>
@@ -194,7 +194,7 @@ improve your emotional well-being,benefit your physical health,remove stress,hea
         
       <div class="column">
     <div class="card" >
-      <img src="images/12.jpg" alt="Reason 2" style="width:100%">
+      <img src="12.jpg" alt="Reason 2" style="width:100%">
       <div class="container">
         <h2>Reason Third..</h2>
         <p class="title">Reason 3</p>
@@ -210,13 +210,13 @@ improve your emotional well-being,benefit your physical health,remove stress,hea
         
         
     </form>
-    <div id="content"><!-- style="background-image:url('images/111.jpg')" > --><h2 style="margin-left:900px;padding-top: 100px"><b>
+    <div id="content"><!-- style="background-image:url('111.jpg')" > --><h2 style="margin-left:900px;padding-top: 100px"><b>
                 Welcome to Blood Bank Management</b><p>(Help People as Angel By Donating Blood)</p></h2><button style="margin-top: 200px;margin-left:900;color:grey">
                     <a href="https://portal.scitech.au.edu/darun/wp-content/uploads/2017/07/Senior_ReportFINAL.pdf">Read More</a></button></a></div>
    <div class="l1" style="min-height:500px;float:left;width:40%;padding-top:30px;padding-left:25px;
         padding-right:7px">
-       <a href="Aboutus.jsp"> <img src="images/16.jpg" style="margin-left:150px;height:150px;width:200px"></a>
-       <a href="contactus.jsp"><img src="images/22.jpg" style="margin-top:50px;margin-left:150px;height:150px;width:200px;border-radius:50%">
+       <a href="Aboutus.jsp"> <img src="16.jpg" style="margin-left:150px;height:150px;width:200px"></a>
+       <a href="contactus.jsp"><img src="22.jpg" style="margin-top:50px;margin-left:150px;height:150px;width:200px;border-radius:50%">
        </a>
         
 
