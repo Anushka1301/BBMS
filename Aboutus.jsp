@@ -66,7 +66,7 @@
                padding: 50px;
                text-align: center;
                background-color:#474e5d;
-               background-image:url(images/k.gif);
+               background-image:url(k.gif);
                
                color: white;
             }
@@ -141,7 +141,7 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="images/9.jpg" alt="Hospital 1" style="width:100%">
+      <img src="9.jpg" alt="Hospital 1" style="width:100%">
       <div class="container">
         <h2>Community Hospitals</h2>
         <p class="title">Hospital 1</p>
@@ -155,7 +155,7 @@
 
   <div class="column">
     <div class="card">
-      <img src="images/10.jpg" alt="Hospital 2" style="width:100%">
+      <img src="10.jpg" alt="Hospital 2" style="width:100%">
       <div class="container">
         <h2>District Hospitals</h2>
         <p class="title">Hospital 2</p>
@@ -169,7 +169,7 @@
 
   <div class="column">
     <div class="card">
-      <img src="images/11.jpg" alt="Hospital 3" style="width:100%">
+      <img src="11.jpg" alt="Hospital 3" style="width:100%">
       <div class="container">
         <h2>Federal Hospitals</h2>
         <p class="title">Hospital 3</p>
